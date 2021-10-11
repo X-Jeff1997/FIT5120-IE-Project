@@ -1,0 +1,1253 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "COBB AND CO ROAD",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000148",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.505508,
+          -37.291584
+        ],
+        "type": "Point"
+      },
+      "id": "01b8547b6e7388d3a74bd11bf7a4e0d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "86",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1000003",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.492355,
+          -38.002548
+        ],
+        "type": "Point"
+      },
+      "id": "024e2d2ff138ebb413cea8a9a189127d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "WESTERN HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "19",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100062",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.702682,
+          -37.747128
+        ],
+        "type": "Point"
+      },
+      "id": "062a081057ca37cd4d29ccb549c6a532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "60",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100063",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.679993,
+          -37.738853
+        ],
+        "type": "Point"
+      },
+      "id": "0eaa327835b9d56929f96db532c1759e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "26",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "2000034",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.239838,
+          -36.907597
+        ],
+        "type": "Point"
+      },
+      "id": "104b372a2517fc2c8964438824ae17be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "44",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1000111",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.985291,
+          -37.304008
+        ],
+        "type": "Point"
+      },
+      "id": "114afd838d3afa05d33b7a0b9697e28d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN RING ROAD",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "70",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100060",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.804565,
+          -37.803738
+        ],
+        "type": "Point"
+      },
+      "id": "1c0e6b84f13a2952d8f2c728851429f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "47",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1000002",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.630386,
+          -37.927681
+        ],
+        "type": "Point"
+      },
+      "id": "28d726604788ede7662b4e479b5b5892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "37",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000010",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.101852,
+          -37.063522
+        ],
+        "type": "Point"
+      },
+      "id": "35a128845b834b96b865913b01695f58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "WEST GATE FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "45",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100059",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.919144,
+          -37.829006
+        ],
+        "type": "Point"
+      },
+      "id": "38c29627ff46600e3082d0b949d12326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "52",
+        "COMMERCIALACTIVITY": "FAST FOOD PRODUCE",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000020",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          144.219498,
+          -36.911434
+        ],
+        "type": "Point"
+      },
+      "id": "3b91b079c86d0bbb142133f7ea5d5cc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1000060",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.19841,
+          -38.048187
+        ],
+        "type": "Point"
+      },
+      "id": "3cc1af5b326f696d83cea666f8afdfee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "EASTLINK",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "116",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "2000001",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.21693,
+          -37.91292
+        ],
+        "type": "Point"
+      },
+      "id": "3ece8ee64a1e2dafccf5983b2127c2b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "WESTERN RING ROAD",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "70",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100061",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.809326,
+          -37.80574
+        ],
+        "type": "Point"
+      },
+      "id": "3ff2cf53eea14da67a7ae39f0480496c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN PORT HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "82",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "3000105",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.23996,
+          -38.0784
+        ],
+        "type": "Point"
+      },
+      "id": "44cb9494f21cee6899eb779bd53ad5bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "44",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000149",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.75383,
+          -37.665646
+        ],
+        "type": "Point"
+      },
+      "id": "47a080be4efc6c655f907ead32073702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "EASTLINK",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "128",
+        "COMMERCIALACTIVITY": "FAST FOOD PRODUCE",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "2000002",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.21457,
+          -37.912776
+        ],
+        "type": "Point"
+      },
+      "id": "49117feba89b0d5ebfccf6dfc6b4c9b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "18",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100097",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.741119,
+          -37.755524
+        ],
+        "type": "Point"
+      },
+      "id": "6bb605be8f3a9c8f5b6b7db7b726481a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "BASS HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "38",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "3000092",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.5378,
+          -38.24534
+        ],
+        "type": "Point"
+      },
+      "id": "7a7f97d226362c3ca816c15fa399b3d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "72",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1000056",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.340607,
+          -38.064098
+        ],
+        "type": "Point"
+      },
+      "id": "83f1a539ae268463f23c98a747274318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "45",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "2000073",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.248657,
+          -36.438545
+        ],
+        "type": "Point"
+      },
+      "id": "8de70ba410e2dc0deb77496d5a93dadc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN HIGHWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100070",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.932922,
+          -37.564114
+        ],
+        "type": "Point"
+      },
+      "id": "8ef0080c04110048f1e413b8b0257919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1000001",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.76217,
+          -37.8692
+        ],
+        "type": "Point"
+      },
+      "id": "905a98dd40567f088034c1ceac6d386a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "63",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100096",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.628784,
+          -37.70676
+        ],
+        "type": "Point"
+      },
+      "id": "98bcf7b0ad4a19e214bc0eba204a30a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "78",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000014",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.748062,
+          -37.664528
+        ],
+        "type": "Point"
+      },
+      "id": "9b58c416316b4da37a5a1cb51662833e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "WEST GATE FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "55",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100058",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.918365,
+          -37.830902
+        ],
+        "type": "Point"
+      },
+      "id": "9e53aabc151e9a5ee05a6916a49ec1dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "35",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000504",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.944219,
+          -37.541394
+        ],
+        "type": "Point"
+      },
+      "id": "aad691b0ea9ba5fe48185e1ce116ef08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "42",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100065",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.241928,
+          -37.591652
+        ],
+        "type": "Point"
+      },
+      "id": "aca7e38d39f62773aa8d7f40381ce11f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "70",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "2000119",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.24939,
+          -36.440285
+        ],
+        "type": "Point"
+      },
+      "id": "af291d66ac15dfd9e0a38f844cb8433d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN HIGHWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "24",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100069",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.934555,
+          -37.564426
+        ],
+        "type": "Point"
+      },
+      "id": "b0c9d6447bc36230f35881199ce457cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "WESTERN PORT HIGHWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "92",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "3000106",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.2326,
+          -38.10814
+        ],
+        "type": "Point"
+      },
+      "id": "b347495d814b9951ed31da52eb7ddf3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "PRINCES FREEWAY EAST",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "82",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "3000107",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.38678,
+          -38.07039
+        ],
+        "type": "Point"
+      },
+      "id": "b7324880db27a7d2b378146247392b83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN HIGHWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1100066",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.244095,
+          -37.590496
+        ],
+        "type": "Point"
+      },
+      "id": "b852490a2040d160ebc8d94698fef840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "90",
+        "COMMERCIALACTIVITY": "FAST FOOD PRODUCE",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "2000156",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.590927,
+          -36.743992
+        ],
+        "type": "Point"
+      },
+      "id": "b85c7390210bfb6d1f574808d6e43061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "51",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000006",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.100433,
+          -37.06369
+        ],
+        "type": "Point"
+      },
+      "id": "bdae58aa15223ec330f76b80e77799db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "16",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1000112",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          143.354156,
+          -37.424866
+        ],
+        "type": "Point"
+      },
+      "id": "c7181de0440e36c58e27f68b25927912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "64",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000503",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.994217,
+          -37.6478
+        ],
+        "type": "Point"
+      },
+      "id": "cbb0489599f7f38a1c521535c8eb7329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "45",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000003",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.014923,
+          -37.402607
+        ],
+        "type": "Point"
+      },
+      "id": "cbb5de9b6f05ace9fc6e38864118357d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "82",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1000057",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.335541,
+          -38.065929
+        ],
+        "type": "Point"
+      },
+      "id": "cd090373c09ef8d5777703e78554aa9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "PRINCES FREEWAY EAST",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "82",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "3000102",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.389936,
+          -38.072814
+        ],
+        "type": "Point"
+      },
+      "id": "cf82a997a4f7cbc6c5f4283576537427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "29",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000502",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.948486,
+          -37.525367
+        ],
+        "type": "Point"
+      },
+      "id": "d1b50ca3ae5f3fb3a2c9344284416d75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "PRINCES FREEWAY EAST",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "48",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "3000090",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.77961,
+          -38.08806
+        ],
+        "type": "Point"
+      },
+      "id": "d50cde16c5b3ad655e87adb876bf25c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NOT ASSESSED",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "NOT ASSESSED",
+        "RUBBISHBINS": "NOT ASSESSED",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "",
+        "LIGHTING": "NOT ASSESSED",
+        "SURFACECONDITION": "NOT ASSESSED",
+        "NUMBERCARSPACES": "NA",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000601",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.132869,
+          -38.204237
+        ],
+        "type": "Point"
+      },
+      "id": "efb3c35ec220ee345c430d51d7fa4f17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "48",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "3000111",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.77494,
+          -38.08555
+        ],
+        "type": "Point"
+      },
+      "id": "f688c3d36d8fea592056ce50eaf2e7a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NOT ASSESSED",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "NOT ASSESSED",
+        "RUBBISHBINS": "NOT ASSESSED",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "",
+        "LIGHTING": "NOT ASSESSED",
+        "SURFACECONDITION": "NOT ASSESSED",
+        "NUMBERCARSPACES": "NA",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000600",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.136152,
+          -38.205181
+        ],
+        "type": "Point"
+      },
+      "id": "f7fa9709d7c4b5b86b9163ca10e4d5c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "GOULBURN VALLEY FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000040",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.198929,
+          -36.707729
+        ],
+        "type": "Point"
+      },
+      "id": "f93a262c7720135edcd5cb26aced5757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "90",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "1000004",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.492325,
+          -38.001476
+        ],
+        "type": "Point"
+      },
+      "id": "fcbdc385981c3cf1e0ff766515531491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "58",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SERVICE CENTRE",
+        "RESTAREAID": "4000012",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.017181,
+          -37.403233
+        ],
+        "type": "Point"
+      },
+      "id": "fe7b97ba682a651de306df5466f3612e"
+    }
+  ],
+  "type": "FeatureCollection"
+}

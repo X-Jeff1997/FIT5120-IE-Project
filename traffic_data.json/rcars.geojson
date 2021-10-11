@@ -1,0 +1,5777 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "NORTHERN HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000152",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.680831,
+          -36.389583
+        ],
+        "type": "Point"
+      },
+      "id": "02a8737eb1226d44abb201348878c3fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000023",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.636963,
+          -37.080345
+        ],
+        "type": "Point"
+      },
+      "id": "03c28f0bbf1f48a15fd9a7fb7931e5ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000085",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.831451,
+          -36.215942
+        ],
+        "type": "Point"
+      },
+      "id": "058b133fddb9fbefee94ab31caad144b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000041",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.000656,
+          -36.746151
+        ],
+        "type": "Point"
+      },
+      "id": "0b320f25b968a7d541448955c8ec2326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TATONG-TOLMIE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000125",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.139389,
+          -36.826168
+        ],
+        "type": "Point"
+      },
+      "id": "0da8f936e6b38f8aaead450c969d775e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000117",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.37709,
+          -36.334221
+        ],
+        "type": "Point"
+      },
+      "id": "0eb528cf2920b581f60bb24774138271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "POOR",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000116",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.446045,
+          -36.221909
+        ],
+        "type": "Point"
+      },
+      "id": "0f34545df4ac8231e362953ab33a746a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000106",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.104782,
+          -36.50761
+        ],
+        "type": "Point"
+      },
+      "id": "0f9bf7f6e80ac7b7db19c23e026d37c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000151",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.796661,
+          -36.457931
+        ],
+        "type": "Point"
+      },
+      "id": "1039442fa003c4ac62ff3a39ddbe3fa2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000073",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.56189,
+          -35.373825
+        ],
+        "type": "Point"
+      },
+      "id": "104af2c4754fa588ebbd13e743a2f356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000102",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          141.59465,
+          -36.366413
+        ],
+        "type": "Point"
+      },
+      "id": "116559b8d2cc52c91e372ad642434ad9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000088",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.316696,
+          -36.195187
+        ],
+        "type": "Point"
+      },
+      "id": "127ceed633d150511437e73472e347a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000102",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.137726,
+          -36.735664
+        ],
+        "type": "Point"
+      },
+      "id": "13bab0f637796029c3224315fe224eb0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WIMMERA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1100031",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.858185,
+          -36.656322
+        ],
+        "type": "Point"
+      },
+      "id": "13f5c1c6871c937ff41c24f451a5f66a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000157",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.915253,
+          -35.9899
+        ],
+        "type": "Point"
+      },
+      "id": "141f96ee9d3f8fa89bcfd3506c6b2148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000040",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.991882,
+          -36.724438
+        ],
+        "type": "Point"
+      },
+      "id": "15172fe34639b61d8a7720789ef073cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "7",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000006",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.056229,
+          -38.470211
+        ],
+        "type": "Point"
+      },
+      "id": "16f043b7d438f1ae289c47f5cf4e2744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "18",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000154",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.921356,
+          -36.57745
+        ],
+        "type": "Point"
+      },
+      "id": "1762083aaeff4fda122ac2e656799d74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000095",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.225677,
+          -36.097176
+        ],
+        "type": "Point"
+      },
+      "id": "18e0140060a6febf89a23e8e57f264c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "9",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000009",
+        "SITELOCATION": "NOT ASSESSED"
+      },
+      "geometry": {
+        "coordinates": [
+          147.82953,
+          -37.82772
+        ],
+        "type": "Point"
+      },
+      "id": "1baa7784ee9868ea2a8039cf1867e7bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000014",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.70917,
+          -37.87278
+        ],
+        "type": "Point"
+      },
+      "id": "1bfe5aafa9bb4cc285af0295f794f875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MCKILLOPS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000040",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.32412,
+          -37.07928
+        ],
+        "type": "Point"
+      },
+      "id": "1cd3721a5986bb7e9227b690cf9ba51e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BAW BAW ROAD",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000097",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.09459,
+          -37.87864
+        ],
+        "type": "Point"
+      },
+      "id": "1dfa2d6b7a46f82dbbc7e3eefa9f2029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1100043",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.250259,
+          -36.760468
+        ],
+        "type": "Point"
+      },
+      "id": "1e4d00b169be79ab90ca3ac0152f7d74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BONANG HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000033",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.7242,
+          -37.15269
+        ],
+        "type": "Point"
+      },
+      "id": "21a9919909174da7a15c77346a0cfa1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000025",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          149.30612,
+          -37.57514
+        ],
+        "type": "Point"
+      },
+      "id": "22eaccafa69b57739d384800be381d43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "LOCKHARTS GAP ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000105",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.165344,
+          -36.329189
+        ],
+        "type": "Point"
+      },
+      "id": "234888b6ac564a83a45f17254f4d909a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000019",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          144.219483,
+          -36.911189
+        ],
+        "type": "Point"
+      },
+      "id": "23d608cb3c02c362ce0f220e10422362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "POOR",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "12",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000115",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.647675,
+          -36.137917
+        ],
+        "type": "Point"
+      },
+      "id": "2656b479f4b8f99c292edcb48cdd40bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000138",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.926254,
+          -36.709824
+        ],
+        "type": "Point"
+      },
+      "id": "2658e79c3619c12d92571c4775837e8b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES FREEWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000108",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.66149,
+          -38.07094
+        ],
+        "type": "Point"
+      },
+      "id": "26a8eb5ad54dfa70de7840cb24839ead"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "STURT HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000121",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.231903,
+          -34.27478
+        ],
+        "type": "Point"
+      },
+      "id": "281b811959693e92cc932864a95a6acc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "9",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000007",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.053421,
+          -38.470554
+        ],
+        "type": "Point"
+      },
+      "id": "28249213c8f9cebf8dc925d143a061e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1100080",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.631363,
+          -37.353058
+        ],
+        "type": "Point"
+      },
+      "id": "28b90c4ce96e8e947f38ab80004a8363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000075",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.445007,
+          -36.220146
+        ],
+        "type": "Point"
+      },
+      "id": "2a085243a7f9cf9c0c38f4aaf4e1120f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000098",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.818756,
+          -36.367115
+        ],
+        "type": "Point"
+      },
+      "id": "2a7072bdc6ddaccede65a811b3e1cbdf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WARBURTON HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000162",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.628403,
+          -37.783024
+        ],
+        "type": "Point"
+      },
+      "id": "2c3ec00ee11fc8df11f1c2e383dfe548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000101",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.232437,
+          -36.408112
+        ],
+        "type": "Point"
+      },
+      "id": "2c681d0c81e37afdc2fddf4bb2496e3b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "19",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000160",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.212814,
+          -36.942188
+        ],
+        "type": "Point"
+      },
+      "id": "2e3f34cf504d9219c995bf89c2e3adaa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1100088",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.422638,
+          -37.435574
+        ],
+        "type": "Point"
+      },
+      "id": "33eb94971950c062ae12fee371c3eaee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000032",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.303009,
+          -37.936138
+        ],
+        "type": "Point"
+      },
+      "id": "37ba34c8764f00d9a07a9cdcfcf67456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000096",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.981323,
+          -36.418694
+        ],
+        "type": "Point"
+      },
+      "id": "3c134261ae30144c3beffade869930ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TATONG-TOLMIE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000124",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.134979,
+          -36.794724
+        ],
+        "type": "Point"
+      },
+      "id": "3d4740e06ab90b61c304c0de19bc618d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CASTERTON-PENOLA ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "12",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000076",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.006195,
+          -37.517323
+        ],
+        "type": "Point"
+      },
+      "id": "3d5623db81df936a8515104df9ad839e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000141",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.06163,
+          -36.940872
+        ],
+        "type": "Point"
+      },
+      "id": "3e9e08f2749c177a97220b53cc435c39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1100047",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.453201,
+          -36.87711
+        ],
+        "type": "Point"
+      },
+      "id": "3f11ddbe2e8479af54c6b4c004545192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WARBURTON-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000167",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.786653,
+          -37.721961
+        ],
+        "type": "Point"
+      },
+      "id": "410aad68c65e67afaedb91cfb1d7ff17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BENDIGO-MURCHISON ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000024",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962494,
+          -36.582867
+        ],
+        "type": "Point"
+      },
+      "id": "411e4f01634688fb7b48099404e08b22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000011",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.030992,
+          -37.329006
+        ],
+        "type": "Point"
+      },
+      "id": "413014b4832a2ef13daa31b8a1013268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BONANG HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000032",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          148.72244,
+          -37.17211
+        ],
+        "type": "Point"
+      },
+      "id": "42ebdf5f2be43bc991fa17ea3bcb9b39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GLENROWAN-MYRTLEFORD ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000132",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.551132,
+          -36.492218
+        ],
+        "type": "Point"
+      },
+      "id": "43600a25cb3e7b60c948d5e41a07c1e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000080",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.165956,
+          -34.718744
+        ],
+        "type": "Point"
+      },
+      "id": "43cebd70c7ee469a0ae2918b49fa09ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000018",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.95744,
+          -37.58933
+        ],
+        "type": "Point"
+      },
+      "id": "44cdd3fb0e192d8dfc42d406cd775ef1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000110",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.915344,
+          -37.253998
+        ],
+        "type": "Point"
+      },
+      "id": "44d799da2797f85cd88df9f2c07bc5f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000101",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.891312,
+          -36.579395
+        ],
+        "type": "Point"
+      },
+      "id": "47af6d3768a0bdef6087696e1df1e105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "LODDON VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000060",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.224121,
+          -36.711159
+        ],
+        "type": "Point"
+      },
+      "id": "495d0ffc8d8b0a3fb1a03e27fa971b51"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MCIVOR HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000059",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.601868,
+          -36.839478
+        ],
+        "type": "Point"
+      },
+      "id": "498aeb69e25ae1eb25f9c20b3d5a5641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MONARO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000020",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          149.25154,
+          -37.25028
+        ],
+        "type": "Point"
+      },
+      "id": "4b7a5aabdded1388a9770354c9af463f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000158",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.424378,
+          -35.345261
+        ],
+        "type": "Point"
+      },
+      "id": "4c89215c67c7f05dd8ff74c2aa4c2ef5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000137",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.880646,
+          -36.670536
+        ],
+        "type": "Point"
+      },
+      "id": "4ebd203616f98a671ffb26d6cd0e5098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000042",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.84006,
+          -37.504
+        ],
+        "type": "Point"
+      },
+      "id": "4f946465bf513906fc4d45373dd48b6f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000044",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.999359,
+          -36.946476
+        ],
+        "type": "Point"
+      },
+      "id": "5040dde1f2d4d0d309566953f90d4b55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000007",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.142853,
+          -36.973591
+        ],
+        "type": "Point"
+      },
+      "id": "516859136db7f9325f45f7997dd740c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000005",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.058182,
+          -38.469948
+        ],
+        "type": "Point"
+      },
+      "id": "519cd90534aef68d61864dfa4920fcab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000158",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.335846,
+          -36.851284
+        ],
+        "type": "Point"
+      },
+      "id": "519e932f097f0ed092e64ef8bbaa31a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000107",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.409668,
+          -36.562405
+        ],
+        "type": "Point"
+      },
+      "id": "521c709f452326fadeba0d7d8e146dca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000002",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.958374,
+          -37.496189
+        ],
+        "type": "Point"
+      },
+      "id": "53212bbf123fef5105579e15c04013d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "LODDON VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000156",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.919936,
+          -36.12545
+        ],
+        "type": "Point"
+      },
+      "id": "53b53eb6ae069151888e7d25104ecbde"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000105",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.793884,
+          -36.362728
+        ],
+        "type": "Point"
+      },
+      "id": "54214981337ac082b6c43df3be009c18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES FREEWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000100",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.32668,
+          -38.21627
+        ],
+        "type": "Point"
+      },
+      "id": "565b58cb37ce4099f35f9f2f310d08d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PYRENEES HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1100041",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.952621,
+          -37.269608
+        ],
+        "type": "Point"
+      },
+      "id": "57edfc19ff3fca6b7ae001259f7886d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000110",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.855316,
+          -36.169403
+        ],
+        "type": "Point"
+      },
+      "id": "584ac1e070f6a8733daba8100159a156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000017",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          148.88885,
+          -37.62712
+        ],
+        "type": "Point"
+      },
+      "id": "5ac3109d3359250ddc7a31482c8ee950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000043",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.82649,
+          -37.44942
+        ],
+        "type": "Point"
+      },
+      "id": "5b362306541aba3d832328b0ee61e442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000115",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.428711,
+          -35.369949
+        ],
+        "type": "Point"
+      },
+      "id": "5ba6fddcf5d9ddc5af2fc8320905b878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "COLAC-LAVERS HILL ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000050",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.583923,
+          -38.479328
+        ],
+        "type": "Point"
+      },
+      "id": "5c40cafaa65a628dd685b88bd2e6eb3d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WARBURTON HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000161",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.509964,
+          -37.775379
+        ],
+        "type": "Point"
+      },
+      "id": "5d3612e18606b6f04be33086e9960c78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "KYNETON MAIN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "18",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000016",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.419503,
+          -37.235917
+        ],
+        "type": "Point"
+      },
+      "id": "5e36bace378ac1b208776ef7eddc378d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000082",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.031639,
+          -34.706828
+        ],
+        "type": "Point"
+      },
+      "id": "5f40e322549aba5ea06316a9d8c35bfc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000133",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.594574,
+          -36.471546
+        ],
+        "type": "Point"
+      },
+      "id": "5f5a0dbf8b481fbe5aa66a11cade634a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WANGARATTA-WHITFIELD ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000131",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.363861,
+          -36.445053
+        ],
+        "type": "Point"
+      },
+      "id": "601750b023fbd114d09186958bc8dbc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "LODDON VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000065",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.953339,
+          -35.815208
+        ],
+        "type": "Point"
+      },
+      "id": "603c0d9f1b2c3914d385bdb4763f2d90"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HENTY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000037",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.660004,
+          -38.088287
+        ],
+        "type": "Point"
+      },
+      "id": "612bbad47e573bd6b81da58ce367603f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000150",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.142517,
+          -36.861256
+        ],
+        "type": "Point"
+      },
+      "id": "6150e5f879ab8df3b88b54291671b25b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BENDIGO-MURCHISON ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000023",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.764694,
+          -36.59425
+        ],
+        "type": "Point"
+      },
+      "id": "61c4e0992b2a780757d161020ed3e0be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "STURT HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000154",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.592622,
+          -34.277939
+        ],
+        "type": "Point"
+      },
+      "id": "640f4405e8e1fd2b2c814f6d017db590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GRAMPIANS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1100016",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.544861,
+          -37.186974
+        ],
+        "type": "Point"
+      },
+      "id": "645af07b095e5d6d27b2135a2fa492a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000022",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.488129,
+          -37.188251
+        ],
+        "type": "Point"
+      },
+      "id": "66296cdca1474d388a1ba8496d74f868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "12",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000044",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.835,
+          -37.40488
+        ],
+        "type": "Point"
+      },
+      "id": "673a020f096d940c7f7be6769536544a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000104",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          140.967392,
+          -36.344597
+        ],
+        "type": "Point"
+      },
+      "id": "67d58b06a64a06624e3d02d754986a9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND LINK HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000045",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.962463,
+          -37.017223
+        ],
+        "type": "Point"
+      },
+      "id": "6944d280cd134be429b24d7c790cd46e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PORTLAND-NELSON ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000027",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.165176,
+          -38.075226
+        ],
+        "type": "Point"
+      },
+      "id": "6b2f834eadbff81d146123d59b1dd2a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURCHISON-VIOLET TOWN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000069",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.667007,
+          -36.624851
+        ],
+        "type": "Point"
+      },
+      "id": "6bcd2826d33a6de6740aad651eddde38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000036",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.617081,
+          -36.498348
+        ],
+        "type": "Point"
+      },
+      "id": "6e5128573e47c2f5c67d19384ccc9c45"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY RIVER ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000079",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.443115,
+          -35.958099
+        ],
+        "type": "Point"
+      },
+      "id": "6f7d7cd365c9b3a8eee3d72ca5ec7584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000100",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.714142,
+          -36.486668
+        ],
+        "type": "Point"
+      },
+      "id": "72127eb7f2a8c42ec0ec1965739ebc34"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "13",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000120",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.10376,
+          -36.501286
+        ],
+        "type": "Point"
+      },
+      "id": "723dc31c291607462882d4298094f607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000110",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.75221,
+          -38.08158
+        ],
+        "type": "Point"
+      },
+      "id": "72cca003e466645ae2509ea77e8f3d07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "ARARAT-HALLS GAP ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "30",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1100017",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.878052,
+          -37.295212
+        ],
+        "type": "Point"
+      },
+      "id": "7306fcc5036e20060b775b078eb3dd31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "KORUMBURRA-PHILLIP ISLAND ROAD",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "19",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000079",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.44757,
+          -38.52615
+        ],
+        "type": "Point"
+      },
+      "id": "74d4fca07b170d026acaa8a46c706217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000027",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.401961,
+          -36.344619
+        ],
+        "type": "Point"
+      },
+      "id": "76325c970d386e8d4b9771329208e3c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000013",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.42171,
+          -37.74019
+        ],
+        "type": "Point"
+      },
+      "id": "76762d42d5cc13359ee3c410ec6f572b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "POOR",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000076",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.638367,
+          -36.146519
+        ],
+        "type": "Point"
+      },
+      "id": "77342da80d4c1d06f9b78a073873f8cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000048",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.971131,
+          -36.022361
+        ],
+        "type": "Point"
+      },
+      "id": "778b658690911bbaa9f80dd7b2791fa1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000079",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.248032,
+          -34.787174
+        ],
+        "type": "Point"
+      },
+      "id": "78cfb7dbb2b8b87c3b59f5413f702c66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1100079",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.752655,
+          -37.4482
+        ],
+        "type": "Point"
+      },
+      "id": "7c5172d45bfd27dffd66c509a5ccb046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000037",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.773529,
+          -36.619255
+        ],
+        "type": "Point"
+      },
+      "id": "7c5e06c57aef77c27dc781da132a412f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000081",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.14502,
+          -34.714874
+        ],
+        "type": "Point"
+      },
+      "id": "7c7bd390615db0392fc072f4d7f4b13d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SOUTH GIPPSLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "16",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000062",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.68309,
+          -38.55074
+        ],
+        "type": "Point"
+      },
+      "id": "7c8eb5b5a0d27204d781691d74c59424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MCKILLOPS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000038",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          148.41406,
+          -37.08238
+        ],
+        "type": "Point"
+      },
+      "id": "7d45ba3e83001f6add80a319391e9f27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY RIVER ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000078",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.390305,
+          -35.980034
+        ],
+        "type": "Point"
+      },
+      "id": "82972149e922fbdd2e9c180198d863f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "LODDON VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000062",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.974426,
+          -36.312988
+        ],
+        "type": "Point"
+      },
+      "id": "86277aa4c6d4313c73ca81ce53c637ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000002",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.57819,
+          -37.84417
+        ],
+        "type": "Point"
+      },
+      "id": "88e10bd0228101363c5e8034d6cd846b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000028",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          149.6771,
+          -37.3897
+        ],
+        "type": "Point"
+      },
+      "id": "8b3c3ec52eafbd4cf0c564e88cf1bcf3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000090",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.77597,
+          -35.446236
+        ],
+        "type": "Point"
+      },
+      "id": "8d31e0657b7ae5bc568e82a0598e29e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "FAST FOOD PRODUCE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000058",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.33546,
+          -37.90569
+        ],
+        "type": "Point"
+      },
+      "id": "8d83ad2aedd75a341975f9828933a111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000033",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.180893,
+          -36.962688
+        ],
+        "type": "Point"
+      },
+      "id": "8dfcedb408e5aea24fdf3600888c5a83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000107",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.212662,
+          -36.592201
+        ],
+        "type": "Point"
+      },
+      "id": "8e5fa41559198ee96a6c49c994a6ff55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "13",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000055",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.265488,
+          -38.216602
+        ],
+        "type": "Point"
+      },
+      "id": "910b5c6fae547875b9f61a473f71adac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000005",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.397446,
+          -37.709305
+        ],
+        "type": "Point"
+      },
+      "id": "9183f5573557afb1372fea60aeff30d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000078",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.316574,
+          -35.025826
+        ],
+        "type": "Point"
+      },
+      "id": "91901e3d1909ab528c9f83e471b420c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000036",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.634628,
+          -36.713776
+        ],
+        "type": "Point"
+      },
+      "id": "938e2010e6d52a2b66fd53c02fbcef66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000059",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.27397,
+          -37.92119
+        ],
+        "type": "Point"
+      },
+      "id": "947d7c8188eb167d5827cf742791dfab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000030",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.511597,
+          -35.925323
+        ],
+        "type": "Point"
+      },
+      "id": "94e1ece17a779e9a8254319514e41579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000045",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.296143,
+          -38.273224
+        ],
+        "type": "Point"
+      },
+      "id": "95e7b9082915d024b75cf53ab47869dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000010",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.034027,
+          -38.477299
+        ],
+        "type": "Point"
+      },
+      "id": "97bf965b3d96238a9ec9e254d77b3051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000139",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.016373,
+          -36.746143
+        ],
+        "type": "Point"
+      },
+      "id": "98b0aa71f70630572f3e36b1cf05e3b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MONARO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000021",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          149.22237,
+          -37.28241
+        ],
+        "type": "Point"
+      },
+      "id": "9a964d225b660ffc9915dcc958108e4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HENTY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000087",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.420013,
+          -35.79385
+        ],
+        "type": "Point"
+      },
+      "id": "9b6106a7bd0a42641ad0e68a488a4cf0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MCKILLOPS ROAD",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000036",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.59111,
+          -37.07011
+        ],
+        "type": "Point"
+      },
+      "id": "9c23bea63c9db5fbed3de56fa90ba895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000083",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.93309,
+          -36.174911
+        ],
+        "type": "Point"
+      },
+      "id": "9cfd77cb455b2476e3f30a2fb6e53b69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HENTY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1100026",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.234955,
+          -36.682457
+        ],
+        "type": "Point"
+      },
+      "id": "9da0d232606a792b3f766a7d2438f22d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000076",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.79166,
+          -38.14198
+        ],
+        "type": "Point"
+      },
+      "id": "9e2aa3b1f8c7866b9caddffbf723fe74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "METUNG ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000005",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.86336,
+          -37.82279
+        ],
+        "type": "Point"
+      },
+      "id": "9e9ad054b8f90ab8ad73fc8e9942fa06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MALLEE HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000083",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.216608,
+          -35.057569
+        ],
+        "type": "Point"
+      },
+      "id": "9ec1b615bae8336026431e2538e33df4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "13",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000054",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.267426,
+          -38.215801
+        ],
+        "type": "Point"
+      },
+      "id": "a29d228d4a6d9e8ed2930b3bb6ae31f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000090",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.244095,
+          -36.214283
+        ],
+        "type": "Point"
+      },
+      "id": "a333e0409fe49567958d4741fcbd91c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "9",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000015",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.620956,
+          -37.518299
+        ],
+        "type": "Point"
+      },
+      "id": "a3c530f0c8cf1e55382a4f9e68c01ed1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000072",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.241821,
+          -36.448067
+        ],
+        "type": "Point"
+      },
+      "id": "a5019aec263cb1f2152f124a704f708c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000013",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.959,
+          -37.497242
+        ],
+        "type": "Point"
+      },
+      "id": "a6477278e87bf3359374a2c82c3c31c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY RIVER ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000077",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.148224,
+          -36.066906
+        ],
+        "type": "Point"
+      },
+      "id": "aa11281b68853e858e2796f70a01d5e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000074",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.375717,
+          -36.334286
+        ],
+        "type": "Point"
+      },
+      "id": "aad9f98d8ee8d09dc78316ed6b32f690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1100051",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.718872,
+          -37.01915
+        ],
+        "type": "Point"
+      },
+      "id": "ab32d4248bed22f307e2096ef6d41cbd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY FREEWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "21",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000009",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.144836,
+          -36.948509
+        ],
+        "type": "Point"
+      },
+      "id": "abb3a5faac816b33947cc2471bac6fd9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "GEELONG-BALLAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "25",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1100094",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.206421,
+          -37.822624
+        ],
+        "type": "Point"
+      },
+      "id": "abf5e8470ee623f4058317ddd5f79b29"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES FREEWAY EAST",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "FAST FOOD PRODUCE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000089",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.80721,
+          -38.09068
+        ],
+        "type": "Point"
+      },
+      "id": "adcbdb8e0168da379bc3c82c37a0d631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1100042",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.296295,
+          -36.785763
+        ],
+        "type": "Point"
+      },
+      "id": "ade553f7e45596e343cb2b271baa6a82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1100050",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.708298,
+          -37.005482
+        ],
+        "type": "Point"
+      },
+      "id": "b0b83ea33c722db0997a4e748f2125c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TARRA VALLEY ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000065",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.57002,
+          -38.4734
+        ],
+        "type": "Point"
+      },
+      "id": "b1147c381052c092cf92a7c06f69a924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000153",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.625808,
+          -36.085667
+        ],
+        "type": "Point"
+      },
+      "id": "b4151a3baca73f8e711c9c56a30c8bd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000118",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.263306,
+          -36.42403
+        ],
+        "type": "Point"
+      },
+      "id": "b43bbec7af5d05ca3909991cc5237348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "DROUIN-KORUMBURRA ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000088",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.78852,
+          -38.2349
+        ],
+        "type": "Point"
+      },
+      "id": "b4606462e00cacf5df97256ecdefdcd5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000008",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.143326,
+          -36.937649
+        ],
+        "type": "Point"
+      },
+      "id": "b5d1af5471d0524c457b21de8aa0a28c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "9",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1000009",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.036758,
+          -38.47517
+        ],
+        "type": "Point"
+      },
+      "id": "b85ef352e4c4eb6f368aa11febed4be0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "STURT HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000119",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.824219,
+          -34.260098
+        ],
+        "type": "Point"
+      },
+      "id": "b908d724386bd9bf1505e64e7c2b999f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BIRCHIP-WYCHEPROOF ROAD",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000113",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.002121,
+          -35.994934
+        ],
+        "type": "Point"
+      },
+      "id": "b99bdb8a47231b7328de0a417e64788f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000038",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.960938,
+          -36.586647
+        ],
+        "type": "Point"
+      },
+      "id": "bed57849cc90e14a77408adc1408ac55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000086",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.674454,
+          -36.215134
+        ],
+        "type": "Point"
+      },
+      "id": "bf47f0f1b23fc87a57b254d4c6cab9d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MYRTLEFORD-YACKANDANDAH ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000134",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.768829,
+          -36.520481
+        ],
+        "type": "Point"
+      },
+      "id": "bf6e4e312f3f73c1d6a177d1dc1fba43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000026",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.734116,
+          -36.986942
+        ],
+        "type": "Point"
+      },
+      "id": "c0b4031c276141acdc8de226f24da66c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000084",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.884003,
+          -36.203285
+        ],
+        "type": "Point"
+      },
+      "id": "c1e3364e37170694199a51da1b290b65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "HENTY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "25",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "1100025",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.186279,
+          -37.109447
+        ],
+        "type": "Point"
+      },
+      "id": "c47b1abb17fb35a3ef3ea80c0a8845a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000070",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.930069,
+          -36.575439
+        ],
+        "type": "Point"
+      },
+      "id": "c50380ea2f2df044be6a5ba362442635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SOUTH GIPPSLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000104",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.2903,
+          -38.12615
+        ],
+        "type": "Point"
+      },
+      "id": "c61db795a464fa2b3583ddfa7022fb3b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MALLEE HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000139",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.248749,
+          -35.261951
+        ],
+        "type": "Point"
+      },
+      "id": "c72278e6e8abbdd65c75078319d269a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000021",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.228194,
+          -36.852619
+        ],
+        "type": "Point"
+      },
+      "id": "c85f233f446ac6576036d3b5f04ccc22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000140",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.078583,
+          -36.84269
+        ],
+        "type": "Point"
+      },
+      "id": "c935be2ce53f54c1b44f9164f39b2833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "16",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000060",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.11491,
+          -37.94917
+        ],
+        "type": "Point"
+      },
+      "id": "ca93b66bc99e3324914de56d4497e766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "LAKE MOUNTAIN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000013",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.870026,
+          -37.52879
+        ],
+        "type": "Point"
+      },
+      "id": "cad16afec2917e3d181288d8bd8412bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000026",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          149.36568,
+          -37.54556
+        ],
+        "type": "Point"
+      },
+      "id": "cade7f18332a58f56735189baf2a9497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "POOR",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "40",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000157",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.501343,
+          -36.781227
+        ],
+        "type": "Point"
+      },
+      "id": "cb6927235ce20d134b77be83e4d54768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000155",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.638353,
+          -35.465092
+        ],
+        "type": "Point"
+      },
+      "id": "cbdf7f027815ebe47b390889ad109f22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000046",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.75133,
+          -37.30242
+        ],
+        "type": "Point"
+      },
+      "id": "cc419eea3f5d7f9e2ad4ec781f8e03f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000089",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.828808,
+          -35.453564
+        ],
+        "type": "Point"
+      },
+      "id": "cc9c0156b3f423c1c901bc4559e33229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000003",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.373337,
+          -37.738995
+        ],
+        "type": "Point"
+      },
+      "id": "cd7f720a613fe285a4a5ee72155f5e74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TATONG-TOLMIE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000123",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.138321,
+          -36.762878
+        ],
+        "type": "Point"
+      },
+      "id": "cdb28f97c13bed21315a77d6ff4034a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MCKILLOPS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000037",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.5731,
+          -37.05923
+        ],
+        "type": "Point"
+      },
+      "id": "d0efc84b0a8fad91e110d0c464bcf5f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000011",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.18933,
+          -37.75195
+        ],
+        "type": "Point"
+      },
+      "id": "d115e690552aa5710484f4d41507040d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000033",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.303055,
+          -37.936707
+        ],
+        "type": "Point"
+      },
+      "id": "d1fd381db37f2f1327e67a03a9fc4596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PYRENEES HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1100084",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.497406,
+          -37.094379
+        ],
+        "type": "Point"
+      },
+      "id": "d2327640a29511d5c63ce0d8b4b92dc6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BIRCHIP-RAINBOW ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000092",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.669037,
+          -35.965153
+        ],
+        "type": "Point"
+      },
+      "id": "d29bf054ff08cee2593a55d97d0b60c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000027",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          149.59128,
+          -37.47243
+        ],
+        "type": "Point"
+      },
+      "id": "d431c2dd96f7bdb776be228b9ce188ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY FREEWAY",
+        "LIGHTING": "NOT ASSESSED",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000043",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.341095,
+          -36.573524
+        ],
+        "type": "Point"
+      },
+      "id": "d4836797c7a93bfad2a636b78ec97501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "POOR",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "12",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000155",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.659332,
+          -36.695919
+        ],
+        "type": "Point"
+      },
+      "id": "d52acdceaa948408f5da3fcdfd5c5d5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000001",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.57086,
+          -37.84654
+        ],
+        "type": "Point"
+      },
+      "id": "d5393171b8f745780b418d21bb36af9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "POOR",
+        "ROADNAME": "ACHERON WAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000163",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.710281,
+          -37.710461
+        ],
+        "type": "Point"
+      },
+      "id": "d565c67adeaa46c62fd10c598146f651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "LICOLA ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000114",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.70917,
+          -37.87278
+        ],
+        "type": "Point"
+      },
+      "id": "d5763d2474668d49062e348aa9a72272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000071",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.796402,
+          -35.602051
+        ],
+        "type": "Point"
+      },
+      "id": "d78d7fe0ff7eada4cce4e29b94fc344b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "NORTHERN HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000057",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.625809,
+          -36.523193
+        ],
+        "type": "Point"
+      },
+      "id": "da7497f81f53f8fe88cb731fffafcccd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000111",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.912491,
+          -35.995872
+        ],
+        "type": "Point"
+      },
+      "id": "db32ffbce14642f03501d5831685e89c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TARRA VALLEY ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000064",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.58012,
+          -38.47538
+        ],
+        "type": "Point"
+      },
+      "id": "dbb32056b8d92e936dce1dcfdd9b9632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MCKILLOPS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000034",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.64998,
+          -37.11413
+        ],
+        "type": "Point"
+      },
+      "id": "dd194744d8dc7ce8fa531529f993895b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TARRA VALLEY ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000066",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.56642,
+          -38.47111
+        ],
+        "type": "Point"
+      },
+      "id": "df6ccfd39819164999e42ad3e5425d10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY RIVER ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000080",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.908478,
+          -36.011337
+        ],
+        "type": "Point"
+      },
+      "id": "e0861e112e1b44a368da45b4b542d8f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000017",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.523575,
+          -37.164051
+        ],
+        "type": "Point"
+      },
+      "id": "e1f4c26f941f08cb260ab9bbc6e78b87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SOUTH GIPPSLAND HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000085",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.74707,
+          -38.38805
+        ],
+        "type": "Point"
+      },
+      "id": "e2c10fd7502b429ead95fff1033bf702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000066",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.285507,
+          -35.858078
+        ],
+        "type": "Point"
+      },
+      "id": "e35ff2bc3ca7ac4e36baab1214f5241a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SOUTH GIPPSLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000084",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.62516,
+          -38.33691
+        ],
+        "type": "Point"
+      },
+      "id": "e437c46fb6cad441b5ef04b24352ae9c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SOUTH GIPPSLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000083",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.55339,
+          -38.29334
+        ],
+        "type": "Point"
+      },
+      "id": "e4b7e5020400d06bc5fb005ae83a792f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TYERS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "100",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000056",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.49135,
+          -38.17203
+        ],
+        "type": "Point"
+      },
+      "id": "e4f425a15e859a6ccdabfd27a01f3141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MARYSVILLE-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000065",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.878006,
+          -37.559566
+        ],
+        "type": "Point"
+      },
+      "id": "e5badb29c02b4a81cfb4482cc57b3e1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WARBURTON-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000166",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.808014,
+          -37.712692
+        ],
+        "type": "Point"
+      },
+      "id": "e613404b3976c45a8a4e20dc5480ff4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000096",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.360123,
+          -36.213646
+        ],
+        "type": "Point"
+      },
+      "id": "e6d60868a42e3301964b63471886246b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CALDER FREEWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000104",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.623657,
+          -37.51862
+        ],
+        "type": "Point"
+      },
+      "id": "e77bc33e2844b8e2804b9165af82e1cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BONANG HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000030",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          148.57938,
+          -37.44954
+        ],
+        "type": "Point"
+      },
+      "id": "e80e1e88db710c2718aff3a704f1d06a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "POOR",
+        "ROADNAME": "HUME HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "14",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "2000071",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.107086,
+          -36.498077
+        ],
+        "type": "Point"
+      },
+      "id": "ea478bb3ecb33461f4a1beab92ed4bd3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000050",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.166595,
+          -37.222172
+        ],
+        "type": "Point"
+      },
+      "id": "ec85fc597d05a73a997b81d4eb43bdb6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SOUTH GIPPSLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "16",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000070",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.6626,
+          -38.62217
+        ],
+        "type": "Point"
+      },
+      "id": "ee6602e4bf4390cc1e54a485055ce793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000055",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.48668,
+          -38.21095
+        ],
+        "type": "Point"
+      },
+      "id": "f2707c5bb1b68fd6796bc360b90b78fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000007",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.03053,
+          -37.81548
+        ],
+        "type": "Point"
+      },
+      "id": "f4a4008c8d8245c05c61bd402c86fa75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000016",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.661606,
+          -37.157837
+        ],
+        "type": "Point"
+      },
+      "id": "f6c41d8973f1e24101fc98788871f50a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1100038",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.460922,
+          -37.060673
+        ],
+        "type": "Point"
+      },
+      "id": "f70cce717e6488d8395f74b5e3148bd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000103",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.510483,
+          -36.388386
+        ],
+        "type": "Point"
+      },
+      "id": "f847c41c932cc5b6924242093c59bf5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "1000097",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.960602,
+          -36.40313
+        ],
+        "type": "Point"
+      },
+      "id": "f932f640d8e922c4bb954551f0ae2a42"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HUME FREEWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "4000004",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.036087,
+          -37.321545
+        ],
+        "type": "Point"
+      },
+      "id": "f98b402b36b0b47c53e2b914acc9603b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOE-GLENGARRY ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000057",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.49287,
+          -38.15071
+        ],
+        "type": "Point"
+      },
+      "id": "f9a934215bb97b8d77de6fd370af5bef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS AND TRUCKS",
+        "RESTAREAID": "3000008",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.09174,
+          -37.73197
+        ],
+        "type": "Point"
+      },
+      "id": "fa7bf1267ee7bdb2b96b7cf315b333c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES FREEWAY EAST",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "3000109",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.6636,
+          -38.07171
+        ],
+        "type": "Point"
+      },
+      "id": "fb0bffcbb422a42c9c833e100041aea4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "4000114",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.470535,
+          -35.455608
+        ],
+        "type": "Point"
+      },
+      "id": "fc123b90666e852e519469bbd6173c6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000082",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.981812,
+          -36.163857
+        ],
+        "type": "Point"
+      },
+      "id": "fd0831ee42172a6d9bbf3b4cc4a1bb07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "YACKANDANDAH ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000135",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.804291,
+          -36.275864
+        ],
+        "type": "Point"
+      },
+      "id": "fec255f4d70434942cfe415e8f4929b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CARS ONLY",
+        "RESTAREAID": "2000089",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.257477,
+          -36.20219
+        ],
+        "type": "Point"
+      },
+      "id": "ff4937497f68fd3bff032e4ac9f8313c"
+    }
+  ],
+  "type": "FeatureCollection"
+}

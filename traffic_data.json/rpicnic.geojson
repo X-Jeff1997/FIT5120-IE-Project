@@ -1,0 +1,5023 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "30",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "3000054",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.49498,
+          -36.98785
+        ],
+        "type": "Point"
+      },
+      "id": "02df1ed8e7dd96be1622c43ccf437e1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000029",
+        "SITELOCATION": "NOT ASSESSED"
+      },
+      "geometry": {
+        "coordinates": [
+          148.88675,
+          -37.62992
+        ],
+        "type": "Point"
+      },
+      "id": "060431e558ed682889e2042cfcae8976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MAIN NEERIM ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "3000098",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.94646,
+          -37.97565
+        ],
+        "type": "Point"
+      },
+      "id": "063e31be81e968cff0a613fdf0ec72fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BALLARAT-MARYBOROUGH ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100078",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.725769,
+          -37.078892
+        ],
+        "type": "Point"
+      },
+      "id": "0677bf1fa9fd7ff29b52dd9ec692cd75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BUFFALO ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000151",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.790634,
+          -36.755161
+        ],
+        "type": "Point"
+      },
+      "id": "0a14d62dbd54ede5d4d70a0483cca003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BULLER ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000047",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.376526,
+          -37.105789
+        ],
+        "type": "Point"
+      },
+      "id": "0a93ae181beceddf047893c8468a3fba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "LAKE MOUNTAIN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000011",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.842117,
+          -37.529408
+        ],
+        "type": "Point"
+      },
+      "id": "0abc831f71f96cd302e4642d38eeb6a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "DARTMOUTH ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000103",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.4505,
+          -36.514015
+        ],
+        "type": "Point"
+      },
+      "id": "0cf315b1754ce49231039ff056a70335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOE-RAWSON ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000112",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.33062,
+          -38.03483
+        ],
+        "type": "Point"
+      },
+      "id": "0d2003f954bca447577fe3be725ab20b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY RIVER ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000081",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.978027,
+          -36.085617
+        ],
+        "type": "Point"
+      },
+      "id": "0df1e76278e81e3b53915eaed87ed389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000099",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.237549,
+          -36.280006
+        ],
+        "type": "Point"
+      },
+      "id": "0ea259709f501efa8120df640d5f420b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "COLAC-LAVERS HILL ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000051",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.583298,
+          -38.478912
+        ],
+        "type": "Point"
+      },
+      "id": "0f82028bf7a79b80dcfaaf5f25d5f507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PHILLIP ISLAND ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "3000081",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.43169,
+          -38.5239
+        ],
+        "type": "Point"
+      },
+      "id": "103361cb27b5f20855cb4943498e8e0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "22",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "1000017",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.827621,
+          -38.584713
+        ],
+        "type": "Point"
+      },
+      "id": "10c2d93a8365be9b146de6446276a31d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "3000053",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.48947,
+          -36.99132
+        ],
+        "type": "Point"
+      },
+      "id": "111e982c4ecd755763132d3d3abdee7e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000049",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          143.412888,
+          -38.347107
+        ],
+        "type": "Point"
+      },
+      "id": "114c6c2c9d3681041c101eef3615bc82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "NORTHERN GRAMPIANS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "38",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100029",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.386017,
+          -37.093216
+        ],
+        "type": "Point"
+      },
+      "id": "12110743cf66258b25975905b185435c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "VICTORIA VALLEY ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "25",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100010",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.319214,
+          -37.586037
+        ],
+        "type": "Point"
+      },
+      "id": "128a3fd0a591187b6748d19f7e39f058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000093",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.156448,
+          -36.673878
+        ],
+        "type": "Point"
+      },
+      "id": "12bf14b2906986e55019cb093e75ae29"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "1000013",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.80957,
+          -38.691906
+        ],
+        "type": "Point"
+      },
+      "id": "133f753ae4656d758cff057a1cbef5d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000024",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          149.27272,
+          -37.56888
+        ],
+        "type": "Point"
+      },
+      "id": "139303c33ac59bd5c7053e79fd187098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000122",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.695816,
+          -36.429302
+        ],
+        "type": "Point"
+      },
+      "id": "146c7e0420b0e8df8ac624c050faebd5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000093",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.026016,
+          -36.152149
+        ],
+        "type": "Point"
+      },
+      "id": "16355594af5e61a29977bc312e8d0acd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BASS HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000082",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.55123,
+          -38.38374
+        ],
+        "type": "Point"
+      },
+      "id": "1684a6d30ba9ff0797080b1e696fe2b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "DARTMOUTH ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000104",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.488251,
+          -36.526325
+        ],
+        "type": "Point"
+      },
+      "id": "1744a7eb8eb2fbd4198f40a7692e9839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000057",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.225267,
+          -37.383133
+        ],
+        "type": "Point"
+      },
+      "id": "185c427c092d2cdb3a17282c6732c890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "RUNNING CREEK ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000113",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.969269,
+          -36.557751
+        ],
+        "type": "Point"
+      },
+      "id": "196f59866ffa1a624f10fff9ff0114ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WARBURTON-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000165",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.858887,
+          -37.675331
+        ],
+        "type": "Point"
+      },
+      "id": "19810a48fa8e3fb6069a6549bfdfe151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "RUSHWORTH-TATURA ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "4000025",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.088272,
+          -36.511349
+        ],
+        "type": "Point"
+      },
+      "id": "1b8d1c367ff48ac8ff51f181205f8400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000024",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.764313,
+          -38.220108
+        ],
+        "type": "Point"
+      },
+      "id": "1c003f336d0d7a3b65beaac8ce76ac57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "LAKE MOUNTAIN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "2000012",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.878006,
+          -37.495426
+        ],
+        "type": "Point"
+      },
+      "id": "1c317c60397e61e17e05b8fd79fa6a9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "CASTERTON-APSLEY ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000077",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.250259,
+          -37.421516
+        ],
+        "type": "Point"
+      },
+      "id": "1cb63cd3cbfc15e174dd2dc36a730b10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WILLOW GROVE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000096",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.17769,
+          -38.06093
+        ],
+        "type": "Point"
+      },
+      "id": "1f35394068f3a442913ac7d78070c5ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000091",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.068359,
+          -36.2197
+        ],
+        "type": "Point"
+      },
+      "id": "2495940964d9e575e8c7cc053099ed21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TARRA VALLEY ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "28",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000067",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.53804,
+          -38.44756
+        ],
+        "type": "Point"
+      },
+      "id": "25c731fda551de52df32fbdf3c5ae493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100049",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.579529,
+          -36.954235
+        ],
+        "type": "Point"
+      },
+      "id": "2622b4b5052489ca66a17c3948ec78c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000058",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.228928,
+          -37.384736
+        ],
+        "type": "Point"
+      },
+      "id": "26bcabfdbfd3568d83f4c532b6218829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BENAMBRA-CORRYONG ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "2000097",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.795181,
+          -36.530708
+        ],
+        "type": "Point"
+      },
+      "id": "281dbc0f5e4f2b47ff473aee1c3c9067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MELBA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000031",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.416519,
+          -37.604599
+        ],
+        "type": "Point"
+      },
+      "id": "29460ffcc27d3093df120342ddfd8e28"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000109",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.433762,
+          -36.659618
+        ],
+        "type": "Point"
+      },
+      "id": "2a63fb25a79fe7208808f7892fa91d68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GRAMPIANS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "25",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "1100014",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.539612,
+          -37.2239
+        ],
+        "type": "Point"
+      },
+      "id": "2b1f0bd438b41f365c4a5c2f9d477873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GLENELG HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100091",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.638916,
+          -37.677998
+        ],
+        "type": "Point"
+      },
+      "id": "2d1e4f13f1c3a07d5d7caa1ed6096741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MCKILLOPS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "3000035",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.61404,
+          -37.09066
+        ],
+        "type": "Point"
+      },
+      "id": "2d45a5887141f3fb49ccde88f5786931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HENTY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100021",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.227081,
+          -37.170841
+        ],
+        "type": "Point"
+      },
+      "id": "2dcc44695df6d060152845d40afb653e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HENTY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000088",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.365067,
+          -35.722191
+        ],
+        "type": "Point"
+      },
+      "id": "2e09679469799b8048a6e39f239f766e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "EPPING-KILMORE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "4000500",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.030472,
+          -37.457481
+        ],
+        "type": "Point"
+      },
+      "id": "2fd4e559f86c57302aafebcc4d53795b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "25",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000019",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.267548,
+          -37.145863
+        ],
+        "type": "Point"
+      },
+      "id": "30184ef6691b83d93a673a21bc39ab32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000060",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.245042,
+          -37.408592
+        ],
+        "type": "Point"
+      },
+      "id": "346c03e11fa231670ca3e7bdf594fd10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "3000045",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.77135,
+          -37.32119
+        ],
+        "type": "Point"
+      },
+      "id": "3512f8ad76d229089098be891627727c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TARRA VALLEY ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000063",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.59885,
+          -38.47647
+        ],
+        "type": "Point"
+      },
+      "id": "35d781c97f0e9cb5625912a2c9ca24f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "CONCRETE",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "TATONG-TOLMIE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000126",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.202267,
+          -36.872173
+        ],
+        "type": "Point"
+      },
+      "id": "381e11d092a693baa27ca324125e517d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000009",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.604202,
+          -37.614391
+        ],
+        "type": "Point"
+      },
+      "id": "38404a65500b2ebf6eaeda69a09b7696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "MOUNT BUFFALO ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000150",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.796997,
+          -36.74556
+        ],
+        "type": "Point"
+      },
+      "id": "38637e75f8989b85d316773b4eb87826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MALMSBURY-ELPHINSTONE ROAD",
+        "LIGHTING": "EXCELLENT",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "4000017",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.350021,
+          -37.13863
+        ],
+        "type": "Point"
+      },
+      "id": "38aa836634da31272e142398bda0869b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BRANDY CREEK ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000099",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.92654,
+          -38.1162
+        ],
+        "type": "Point"
+      },
+      "id": "3954f06ef51211657135b037fb44d8e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "MELBA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "25",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000032",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.419601,
+          -37.526325
+        ],
+        "type": "Point"
+      },
+      "id": "395bc191d0859ca7b73c340a23280d07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "17",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "1000008",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.04512,
+          -38.471828
+        ],
+        "type": "Point"
+      },
+      "id": "3e2f54756de89cc1e13a542d09366496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000048",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.53444,
+          -37.12673
+        ],
+        "type": "Point"
+      },
+      "id": "3e3c9c30a965c1a9d441144e9185f51c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000006",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.491074,
+          -37.677845
+        ],
+        "type": "Point"
+      },
+      "id": "427a238b0d6eca294b96ca5cafe0b396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000062",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.192519,
+          -37.478042
+        ],
+        "type": "Point"
+      },
+      "id": "43cb9e5448a104b0f0606f052ab0c483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000061",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.239486,
+          -37.416869
+        ],
+        "type": "Point"
+      },
+      "id": "44983e14a628a6ebea3d076d9e4457be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100076",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.18425,
+          -37.110233
+        ],
+        "type": "Point"
+      },
+      "id": "459509137d80c4b6fe3e03a0700159f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "2000008",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.557251,
+          -37.646004
+        ],
+        "type": "Point"
+      },
+      "id": "47df75093f5c1de9c957e1b0dd51541c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000102",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.203094,
+          -36.440369
+        ],
+        "type": "Point"
+      },
+      "id": "4863c16da7ec659edd87d93d9558afe3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100035",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.265762,
+          -36.755684
+        ],
+        "type": "Point"
+      },
+      "id": "487d16cb90b3648a65029882fc24c935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WARBURTON-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000064",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.216386,
+          -37.60168
+        ],
+        "type": "Point"
+      },
+      "id": "48899e4f662eb8632a68f056a5af3edc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BUFFALO ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000149",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.80632,
+          -36.735985
+        ],
+        "type": "Point"
+      },
+      "id": "4a45ffca36f5bc812606bc678fd0a5aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000108",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.42627,
+          -36.615173
+        ],
+        "type": "Point"
+      },
+      "id": "4ca607f1cf0b05655d0298b911a5a7cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100075",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          144.126205,
+          -37.34687
+        ],
+        "type": "Point"
+      },
+      "id": "4e2347f2664634d4188b1862bccd415e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BUFFALO ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000153",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.828659,
+          -36.694126
+        ],
+        "type": "Point"
+      },
+      "id": "4f559fd947dd39c9fcf5d2a2e83467f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "THE GRAND RIDGE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "40",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000068",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.56682,
+          -38.42911
+        ],
+        "type": "Point"
+      },
+      "id": "4fe02ef42f940b6fc37b577847d6ca8f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MCKILLOPS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "3000039",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          148.41315,
+          -37.09116
+        ],
+        "type": "Point"
+      },
+      "id": "5025f71c51669f906b9a8de1274fc2eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000029",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.845612,
+          -37.262493
+        ],
+        "type": "Point"
+      },
+      "id": "51564f39aa01f82d76caf48952978902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000020",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.242737,
+          -37.142906
+        ],
+        "type": "Point"
+      },
+      "id": "533bb54c209569b4885caae3eaf8b8af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "DON ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "2000007",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.559555,
+          -37.696693
+        ],
+        "type": "Point"
+      },
+      "id": "57c45d3cec5597b31baea2887b44061a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "KEIWA VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000111",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.016769,
+          -36.44463
+        ],
+        "type": "Point"
+      },
+      "id": "5ad0c014b30a0c15267240cb990e4659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "165",
+        "COMMERCIALACTIVITY": "FAST FOOD",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "1000015",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.105423,
+          -38.661335
+        ],
+        "type": "Point"
+      },
+      "id": "5adf8dc1df264cf54032fca20a69c16e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TAGGERTY-THORNTON ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000030",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.799484,
+          -37.278847
+        ],
+        "type": "Point"
+      },
+      "id": "5bc7c2672436667c93e8b08e61136450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000011",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.984512,
+          -38.526283
+        ],
+        "type": "Point"
+      },
+      "id": "5bdc957e50291e665b9f385e90a0a22a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "POOR",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000027",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.854294,
+          -37.026493
+        ],
+        "type": "Point"
+      },
+      "id": "5c9551695eded3c643466d0e255e5e7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000003",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.74001,
+          -37.81733
+        ],
+        "type": "Point"
+      },
+      "id": "5e39f63f4990473a185ba18154e17c5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BULLER ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000049",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.401871,
+          -37.109825
+        ],
+        "type": "Point"
+      },
+      "id": "5e3ac3e0ae7c31bccf963af66527c48b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "FISH CREEK-FOSTER ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000075",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.1472,
+          -38.68585
+        ],
+        "type": "Point"
+      },
+      "id": "5f614080dc85aa9297f0130cb0bc5e39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000059",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.2489,
+          -37.390097
+        ],
+        "type": "Point"
+      },
+      "id": "60c502b2b558cc1fdd4eb2f74d82c771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000056",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.211992,
+          -37.383464
+        ],
+        "type": "Point"
+      },
+      "id": "610e1405ba8f0ba984955b64e3bd2d95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BUFFALO ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000148",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.807083,
+          -36.733185
+        ],
+        "type": "Point"
+      },
+      "id": "6304729e3db8f71c19cc7aeae725f7d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000110",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.433258,
+          -36.661156
+        ],
+        "type": "Point"
+      },
+      "id": "63c1edf55d617a8b95433c96f13b727b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000121",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.944046,
+          -36.475426
+        ],
+        "type": "Point"
+      },
+      "id": "640ba14cf56ea2bb1baaf789d6a5f1e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100037",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.405685,
+          -37.016739
+        ],
+        "type": "Point"
+      },
+      "id": "64548428d32c00bcef3ec339fa90d9c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GLENELG HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "12",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000075",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.245407,
+          -37.651138
+        ],
+        "type": "Point"
+      },
+      "id": "6933b37ca76fea10bc85a26de2cc22cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "FOSTER-LEONGATHA ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "3000077",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.17424,
+          -38.62134
+        ],
+        "type": "Point"
+      },
+      "id": "69c95b8bbc2a32412ff7f3fe0b45394d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HYLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000069",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.72987,
+          -38.45877
+        ],
+        "type": "Point"
+      },
+      "id": "6bd224664453858f3fbcb4ea67dc38fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "KORUMBURRA-WARRAGUL ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000087",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.88224,
+          -38.3544
+        ],
+        "type": "Point"
+      },
+      "id": "6cb8d4a463c6d69bb9d30139d1c89788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WANGARATTA-WHITFIELD ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000130",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.422318,
+          -36.647079
+        ],
+        "type": "Point"
+      },
+      "id": "6d257c00dc024401b8dfed86cfa1db70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000051",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.135818,
+          -37.296227
+        ],
+        "type": "Point"
+      },
+      "id": "6d636aa27693b14234a8bf1ae5a30cab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "2000014",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.683594,
+          -37.240738
+        ],
+        "type": "Point"
+      },
+      "id": "6e0303cafaff8432833ce85ca2f74e13"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000100",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.247086,
+          -36.399799
+        ],
+        "type": "Point"
+      },
+      "id": "6e6b5e1c471d6bb6a37d84972a65d085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BULLER ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000048",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.385391,
+          -37.108295
+        ],
+        "type": "Point"
+      },
+      "id": "6ef102e75010287a7e884d82020d2dbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000091",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.797211,
+          -35.901505
+        ],
+        "type": "Point"
+      },
+      "id": "6f01ad7b88572c0adf628a4d3e74f0ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BUFFALO ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000146",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.818222,
+          -36.720966
+        ],
+        "type": "Point"
+      },
+      "id": "714851e818dab9bda7278d6a683ef845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "30",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "3000049",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.46375,
+          -36.89355
+        ],
+        "type": "Point"
+      },
+      "id": "75b8a2cd9b247bc8abf24b1b019b6495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100046",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.419205,
+          -36.852104
+        ],
+        "type": "Point"
+      },
+      "id": "768bd621b52e8d3198555d500e534b55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WANGARATTA-WHITFIELD ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000129",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.423386,
+          -36.649292
+        ],
+        "type": "Point"
+      },
+      "id": "76b646a845f7183d06d17e8a87387da7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "11",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "1000025",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          141.61496,
+          -38.294365
+        ],
+        "type": "Point"
+      },
+      "id": "77b49307e93aac5ddc35989007d6e726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000047",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.60199,
+          -37.05281
+        ],
+        "type": "Point"
+      },
+      "id": "792662faeed870907f21edf1d7c4b98c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000055",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.142822,
+          -37.346072
+        ],
+        "type": "Point"
+      },
+      "id": "7bb4187d09ed904b912bc89122b73cd6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "LICOLA ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "30",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "3000113",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.66913,
+          -37.76267
+        ],
+        "type": "Point"
+      },
+      "id": "7c7730700c99aee290ea3e4852c240ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BASS HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000093",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.45896,
+          -38.21309
+        ],
+        "type": "Point"
+      },
+      "id": "7cd758716576063fe65fab411f65f9df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WIMMERA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100033",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.235733,
+          -36.627941
+        ],
+        "type": "Point"
+      },
+      "id": "7e42d1d5f70f2c84a11ca3beb3df447f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GRAMPIANS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "40",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100015",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.544266,
+          -37.196625
+        ],
+        "type": "Point"
+      },
+      "id": "81a9d4e966a9c389b6f1c5d1e2fff3ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100053",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.842163,
+          -37.144794
+        ],
+        "type": "Point"
+      },
+      "id": "827682fd4398b5bcfca9d8e7898db72e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SOUTH GIPPSLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000074",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.29964,
+          -38.6529
+        ],
+        "type": "Point"
+      },
+      "id": "8561db44767fd298f0ed1300a0b9a3c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "KEIWA VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "2000114",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.143311,
+          -36.709175
+        ],
+        "type": "Point"
+      },
+      "id": "86affbc9c881e92fd9b991c1bed8732a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BULLER ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000046",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.349442,
+          -37.103462
+        ],
+        "type": "Point"
+      },
+      "id": "8917d2ffd10761d404bbe5940213a133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000050",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.46953,
+          -36.93045
+        ],
+        "type": "Point"
+      },
+      "id": "8eaacbb5889d3175ba874a27a471c2c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000016",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.81773,
+          -37.65218
+        ],
+        "type": "Point"
+      },
+      "id": "8fd3ae4d2b0f8587284df3d08f37136c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MONARO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000022",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          149.20668,
+          -37.34196
+        ],
+        "type": "Point"
+      },
+      "id": "9359576138a7f6d2e71e1e8d3373ec60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100071",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.889786,
+          -37.443295
+        ],
+        "type": "Point"
+      },
+      "id": "9359aa1a75bc7d417f7534dd1ad87472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100034",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.270737,
+          -36.65551
+        ],
+        "type": "Point"
+      },
+      "id": "9407b8c96a43ae88c97b30978a95392f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "STREZLECKI HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000086",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.18174,
+          -38.37208
+        ],
+        "type": "Point"
+      },
+      "id": "94936e2352852dfbd1824d00a765d87e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "EXCELLENT",
+        "ROADNAME": "DAYLESFORD-BALLARAT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "30",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100072",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.93071,
+          -37.550865
+        ],
+        "type": "Point"
+      },
+      "id": "96d8f08b7d26eeb72021fb6db6610ca6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000054",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.131317,
+          -37.332425
+        ],
+        "type": "Point"
+      },
+      "id": "9714371561c269206956a5321fa3e6bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BRIGHT-TAWONGA ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000143",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.131989,
+          -36.717865
+        ],
+        "type": "Point"
+      },
+      "id": "9cd88c32ddd7e347cbe4d0e6c28bbe44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "30",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000094",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.103302,
+          -36.509434
+        ],
+        "type": "Point"
+      },
+      "id": "9fa5a6dbfe63b3cd840598dc294e32b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000012",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          143.839478,
+          -38.68325
+        ],
+        "type": "Point"
+      },
+      "id": "a171156b2e8a3e26679c71950b43caf1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SOUTH GIPPSLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000072",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.48183,
+          -38.64405
+        ],
+        "type": "Point"
+      },
+      "id": "a53dc2089e2842abda26e66e0135e56b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "COBDEN-WARRNAMBOOL ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000040",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.807602,
+          -38.391289
+        ],
+        "type": "Point"
+      },
+      "id": "aabdcadc5cf8ff653324202c022e5949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "TATONG-TOLMIE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000127",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.23526,
+          -36.888119
+        ],
+        "type": "Point"
+      },
+      "id": "aeae2471fb40b08565ea62cb68c7b9a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000031",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          141.277252,
+          -37.927639
+        ],
+        "type": "Point"
+      },
+      "id": "aebd707ee25b30a79eb9b150c697bd1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "POOR",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000010",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.642349,
+          -37.591591
+        ],
+        "type": "Point"
+      },
+      "id": "af632a3a57f13fabfa7581b7b62be7d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WIMMERA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000078",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.102203,
+          -36.971222
+        ],
+        "type": "Point"
+      },
+      "id": "affb27c3e3ecbe74f02a9ef33f5988b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100083",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.523743,
+          -37.189716
+        ],
+        "type": "Point"
+      },
+      "id": "b191a1b9f5792117cf1ae84b21c9b76d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "KORUMBURRA-PHILLIP ISLAND ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000078",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.48337,
+          -38.55479
+        ],
+        "type": "Point"
+      },
+      "id": "b1c04acf710233971869a4c5423b82d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000010",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          148.09081,
+          -37.73519
+        ],
+        "type": "Point"
+      },
+      "id": "b24fa759870a89865f39c11b20857acc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SOUTH GIPPSLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000071",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.65816,
+          -38.62381
+        ],
+        "type": "Point"
+      },
+      "id": "b26f86205e3585f607c75d9a8487b8ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SOUTH GIPPSLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000073",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.38666,
+          -38.67158
+        ],
+        "type": "Point"
+      },
+      "id": "b5fd0e96e07078da6238a834d994ce4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "POOR",
+        "ROADNAME": "BENAMBRA-CORRYONG ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000095",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.828827,
+          -36.443733
+        ],
+        "type": "Point"
+      },
+      "id": "b6c07545c0789a28a9d343c98760ab20"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT OCEAN ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "28",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "1000014",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          143.554581,
+          -38.755844
+        ],
+        "type": "Point"
+      },
+      "id": "b708024c5f4eeb5f195e6c817232da75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000028",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.76889,
+          -37.239674
+        ],
+        "type": "Point"
+      },
+      "id": "b783fabbb38f8fefaa0be7ef8a1d2727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BASS HIGHWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000091",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.50279,
+          -38.21565
+        ],
+        "type": "Point"
+      },
+      "id": "b7b615298f3080f4fbd511485f7def37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY WEST",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000048",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          143.409073,
+          -38.34803
+        ],
+        "type": "Point"
+      },
+      "id": "b83f5cd555d51a2c3f26202b3afb7810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "DONNA BUANG ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000164",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.686874,
+          -37.712803
+        ],
+        "type": "Point"
+      },
+      "id": "bb507cef4ff1ce4673c8fd96c13cffac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "LOCKHARTS GAP ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "2000106",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.185867,
+          -36.349964
+        ],
+        "type": "Point"
+      },
+      "id": "bb7b73f1f4b527e4b92e0b5bdbca0045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000063",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.240264,
+          -37.559536
+        ],
+        "type": "Point"
+      },
+      "id": "bc15a71b12878f2bc8e70494c4f133ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100045",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.40451,
+          -36.840961
+        ],
+        "type": "Point"
+      },
+      "id": "bd4973503cc889439f82c2fba4fe1524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BENAMBRA-CORRYONG ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000096",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.829361,
+          -36.443775
+        ],
+        "type": "Point"
+      },
+      "id": "bdf1bf528ee276115b0073a2f8e3f6b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000052",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.131225,
+          -37.325006
+        ],
+        "type": "Point"
+      },
+      "id": "be5558b8c556ff2d29f6d56f8e27c905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GRAMPIANS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "25",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "1100013",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.503928,
+          -37.371694
+        ],
+        "type": "Point"
+      },
+      "id": "bed8f5692140a2effe53a4da9e6400c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100093",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.982513,
+          -37.709419
+        ],
+        "type": "Point"
+      },
+      "id": "c17f249138d73808bdaf1c53f3377fcc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "2000015",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.684174,
+          -37.237331
+        ],
+        "type": "Point"
+      },
+      "id": "c408725462d0ff7df001296515713440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PYRENEES HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100040",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.085037,
+          -37.197502
+        ],
+        "type": "Point"
+      },
+      "id": "c4679282e579e58a34f5982662debc41"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PYRENEES HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "4000018",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.267929,
+          -37.082241
+        ],
+        "type": "Point"
+      },
+      "id": "c4d0796fd8127cf0f019718d89024815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000068",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.71347,
+          -37.324383
+        ],
+        "type": "Point"
+      },
+      "id": "c5674be5b32a43421456950ebff084b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WIMMERA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000079",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.271027,
+          -37.027149
+        ],
+        "type": "Point"
+      },
+      "id": "c680a9ea198351e83ea0448372389155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GLENELG HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "25",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "1100008",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.31958,
+          -37.654221
+        ],
+        "type": "Point"
+      },
+      "id": "c6c4e42f520eddaa360dd6223d4df5d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000090",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.780426,
+          -35.824829
+        ],
+        "type": "Point"
+      },
+      "id": "c7faee0d6677c196f456a208ebdefc0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BORUNG HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000108",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.350647,
+          -36.262943
+        ],
+        "type": "Point"
+      },
+      "id": "c86f1e468e246a0e73f058fa98f931fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PYRENEES HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100039",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.352417,
+          -37.193569
+        ],
+        "type": "Point"
+      },
+      "id": "ca1dda939c31ecdf9800d47887831806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "3000051",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.47348,
+          -36.94252
+        ],
+        "type": "Point"
+      },
+      "id": "cd0faa54360f199e152a282b89d5ffea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000018",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.438263,
+          -37.21294
+        ],
+        "type": "Point"
+      },
+      "id": "cdf8c786667762292392b7feb93da006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GLENELG HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000070",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.482361,
+          -37.635811
+        ],
+        "type": "Point"
+      },
+      "id": "ce4897f1d2245bb47ed58f3081fcf980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "POOR",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "40",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000043",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.00708,
+          -36.855305
+        ],
+        "type": "Point"
+      },
+      "id": "cf83253107f23b30028a4b190476ce98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BUFFALO ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000145",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.842422,
+          -36.717896
+        ],
+        "type": "Point"
+      },
+      "id": "d1a4c79e892ea204c43d50618815f1e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "RUNNING CREEK ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000112",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.04631,
+          -36.544697
+        ],
+        "type": "Point"
+      },
+      "id": "d1ee74d06989c86f4776d87773c87674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GRAMPIANS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "1100012",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.475159,
+          -37.433498
+        ],
+        "type": "Point"
+      },
+      "id": "d2d70745398ff017299e9b2dbaeed3b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "GOOD",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "50",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100073",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.988876,
+          -37.406834
+        ],
+        "type": "Point"
+      },
+      "id": "d40f0b4c6f7467067ebc2583f8d8cc14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BRIGHT-TAWONGA ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000142",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.120239,
+          -36.712364
+        ],
+        "type": "Point"
+      },
+      "id": "d4d0aba8c39b7b48bedebe066f921a8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "SUNRAYSIA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100081",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.547287,
+          -37.288864
+        ],
+        "type": "Point"
+      },
+      "id": "daa3e74bbf2b617c4cfb2b90717c01c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "POOR",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WIMMERA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "5",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100032",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.978439,
+          -36.640202
+        ],
+        "type": "Point"
+      },
+      "id": "dbacc847676389adf0db03e6d6b2e940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MANSFIELD-WOODS POINT ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000053",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.132217,
+          -37.336067
+        ],
+        "type": "Point"
+      },
+      "id": "dc1923a2b55b165b3586b0a86075fcc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MIDLAND HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "2",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100074",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          144.02417,
+          -37.375889
+        ],
+        "type": "Point"
+      },
+      "id": "df40e49c97533c857e089617ba0eb293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BUFFALO ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000144",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.851852,
+          -36.700768
+        ],
+        "type": "Point"
+      },
+      "id": "df6c911b8b0088c188d6213d48660caf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "ROKEWOOD-SKIPTON ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000062",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          143.586288,
+          -37.807793
+        ],
+        "type": "Point"
+      },
+      "id": "e1616b0bf425b37dfe500d9f9266b458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GRAMPIANS ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1100011",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.413971,
+          -37.506447
+        ],
+        "type": "Point"
+      },
+      "id": "e3efb7644c0d2f41b0bae8aad852ae8b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "SPRAYED SEAL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "PRINCES HIGHWAY EAST",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "3000006",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.96152,
+          -37.87938
+        ],
+        "type": "Point"
+      },
+      "id": "e4b6d8d0a0253008db8d032d046c79dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "MAROONDAH HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "6",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000066",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          145.655273,
+          -37.564541
+        ],
+        "type": "Point"
+      },
+      "id": "ed40ef0abcf405a026cfe382c62a75cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "OMEO HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000052",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.49394,
+          -36.97861
+        ],
+        "type": "Point"
+      },
+      "id": "ed4ef56a1e3c1908d62f3dc0dc1d5c4d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "TATURA-UNDERA ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "4000026",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.223253,
+          -36.432778
+        ],
+        "type": "Point"
+      },
+      "id": "ed9a367666c7ddd0d37fe067c8fb6697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BONANG HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "40",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "3000031",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          148.70053,
+          -37.34292
+        ],
+        "type": "Point"
+      },
+      "id": "f01b554d939e6f3b7d8071a459c19903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "3000041",
+        "SITELOCATION": "NOT ASSESSED"
+      },
+      "geometry": {
+        "coordinates": [
+          147.86882,
+          -37.55061
+        ],
+        "type": "Point"
+      },
+      "id": "f38c9a1a0f0ccf4fdff278965d92bf54"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "EXCELLENT",
+        "TOILETS": "EXCELLENT",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "EXCELLENT",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BORUNG HIGHWAY",
+        "LIGHTING": "POOR",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "0",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "4000147",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          143.195572,
+          -36.260826
+        ],
+        "type": "Point"
+      },
+      "id": "f4058f4187fcad2521fb24f521da286a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MOUNT BUFFALO ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "3",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "SCENIC LOOKOUT",
+        "RESTAREAID": "2000152",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          146.827286,
+          -36.709175
+        ],
+        "type": "Point"
+      },
+      "id": "f4617d18e6b726008744cc26feff800d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "COMPACTED DIRT",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "BENAMBRA-CORRYONG ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000094",
+        "SITELOCATION": "BEND HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.826553,
+          -36.39706
+        ],
+        "type": "Point"
+      },
+      "id": "f4ad428eb0f48797f4ba4250b8acd760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GOULBURN VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "10",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000021",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          145.202118,
+          -37.090778
+        ],
+        "type": "Point"
+      },
+      "id": "f61f17d877fe93d43479bb4afbdc680b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WESTERN FREEWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "20",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000095",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.059891,
+          -36.460884
+        ],
+        "type": "Point"
+      },
+      "id": "f749055f016447d6132fea633b1ae036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GLENELG HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000067",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          142.862778,
+          -37.699783
+        ],
+        "type": "Point"
+      },
+      "id": "f832334935a7a68f748c06f9c73cd94d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "HENTY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000089",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          142.502716,
+          -35.656208
+        ],
+        "type": "Point"
+      },
+      "id": "f8ecaa9ba5dc298312a8ebfbc197f5b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "GOOD",
+        "ROADNAME": "MOUNT BUFFALO ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "30",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000147",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.820908,
+          -36.721664
+        ],
+        "type": "Point"
+      },
+      "id": "fa7d52b7f107f1568f93f6ebea7a8a3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000098",
+        "SITELOCATION": "STRAIGHT HILL"
+      },
+      "geometry": {
+        "coordinates": [
+          147.549744,
+          -36.178699
+        ],
+        "type": "Point"
+      },
+      "id": "fc830c7e1143453b7d5f0814042a93cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "NONE",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WIMMERA HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "1000085",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          141.865555,
+          -36.775059
+        ],
+        "type": "Point"
+      },
+      "id": "fcff48af4f78cf856138acbb98e7726c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "POOR",
+        "TOILETS": "NONE",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "GREAT ALPINE ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "GOOD",
+        "NUMBERCARSPACES": "4",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000136",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.86908,
+          -36.65934
+        ],
+        "type": "Point"
+      },
+      "id": "fe15944e858d68c71f20c6e650867bd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "GRAVEL",
+        "RUBBISHBINS": "NONE",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "WANGARATTA-WHITFIELD ROAD",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "POOR",
+        "NUMBERCARSPACES": "15",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "CAMPING AREA",
+        "RESTAREAID": "2000128",
+        "SITELOCATION": "BEND FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          146.420181,
+          -36.661636
+        ],
+        "type": "Point"
+      },
+      "id": "fe9e6afc145525efef2beae8842b0ef9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SIGNAGEMARKINGS": "GOOD",
+        "TOILETS": "GOOD",
+        "SURFACETYPE": "ASPHALT",
+        "RUBBISHBINS": "GOOD",
+        "DISABLEDTOILETS": "NONE",
+        "ROADNAME": "MURRAY VALLEY HIGHWAY",
+        "LIGHTING": "NONE",
+        "SURFACECONDITION": "EXCELLENT",
+        "NUMBERCARSPACES": "8",
+        "COMMERCIALACTIVITY": "NONE",
+        "RESTAREATYPE": "PICNIC AREA",
+        "RESTAREAID": "2000092",
+        "SITELOCATION": "STRAIGHT FLAT"
+      },
+      "geometry": {
+        "coordinates": [
+          147.035461,
+          -36.171051
+        ],
+        "type": "Point"
+      },
+      "id": "fed6277d9f0c22875b876a640afd0d6f"
+    }
+  ],
+  "type": "FeatureCollection"
+}
